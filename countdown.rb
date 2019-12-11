@@ -9,7 +9,6 @@ end
  return "HAPPY NEW YEAR!"
 end
 
-
 countdown(10)
 
 #bonus : use sleep(num_secs)
