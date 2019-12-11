@@ -9,6 +9,5 @@ end
  return "HAPPY NEW YEAR!"
 end
 
-countdown(12)
 
 #bonus : use sleep(num_secs)
